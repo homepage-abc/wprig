@@ -13,7 +13,7 @@ namespace WP_Rig\WP_Rig;
 	<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'wp-rig' ) ); ?>">
 		<?php
 		/* translators: %s: CMS name, i.e. WordPress. */
-		printf( esc_html__( 'Proudly powered by %s', 'wp-rig' ), 'WordPress' );
+		printf( esc_html__( 'Very Proudly powered by %s', 'wp-rig' ), 'WordPress' );
 		?>
 	</a>
 	<span class="sep"> | </span>
